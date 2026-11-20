@@ -19,7 +19,7 @@ import okhttp3.Request
 import okhttp3.RequestBody.Companion.toRequestBody
 import org.json.JSONObject
 
-private const val BASE_URL = "https://YOUR-BACKEND-HOST"
+private const val BASE_URL = "https://https://ai-clipper-pro-api.onrender.com"
 private val http = OkHttpClient()
 
 class MainActivity : ComponentActivity() {
